@@ -1,4 +1,4 @@
-Copyright (c) 2010-2014 Randy Daal, Randynamic
+Copyright (c) 2014 Randy Daal, Randynamic
 
 Permission is hereby granted, free of charge, to any person
 obtaining a copy of this software and associated documentation
